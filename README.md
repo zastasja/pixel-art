@@ -1,1 +1,1 @@
-# pixel-art
+# pixel-art-maker Udemy project
