@@ -1,7 +1,7 @@
-# pixel-art-maker Udacity project
+# pixel-art-maker
 
 - select size of your canvas
-- click "send" button
+- click "submit query" button
 - select color and click on any cell you like
 - double click to erase
 
